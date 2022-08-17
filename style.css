@@ -1,0 +1,49 @@
+
+body {
+    margin: 0;
+	padding: 0;
+	background-color:#F9F5EB;
+	opacity: 0.9;
+	background-size: cover;	
+}
+
+button:hover{
+	box-shadow: 0px 16px 22px 0px black;
+    top: -5px;
+}
+
+.rm{
+  margin-left: 400px;
+  font-weight: bold;
+  font-size: 40px;
+  color: #000000;
+  margin-top: 50px;
+}
+
+button{
+	width: 200px;
+	height: 50px;
+	background: #607EAA;
+	border: none;
+	border-radius: 1em;
+	color: #ffffff;
+	font-size:20px;  
+	cursor: pointer;
+}
+.left{
+	margin-bottom: 10px;
+	margin-left: 305px;
+}
+
+.fw{
+	margin-bottom: 10px;
+	margin-top: 50px;
+	margin-left: 520px;
+
+}
+
+.bw{
+	margin-bottom: 10px;
+	margin-left: 520px;
+
+}
